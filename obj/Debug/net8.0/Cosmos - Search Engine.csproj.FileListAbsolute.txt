@@ -1,0 +1,14 @@
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.AssemblyInfoInputs.cache
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.AssemblyInfo.cs
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.csproj.CoreCompileInputs.cache
+D:\Cosmos - Search Engine\bin\Debug\net8.0\Cosmos - Search Engine.exe
+D:\Cosmos - Search Engine\bin\Debug\net8.0\Cosmos - Search Engine.deps.json
+D:\Cosmos - Search Engine\bin\Debug\net8.0\Cosmos - Search Engine.runtimeconfig.json
+D:\Cosmos - Search Engine\bin\Debug\net8.0\Cosmos - Search Engine.dll
+D:\Cosmos - Search Engine\bin\Debug\net8.0\Cosmos - Search Engine.pdb
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.dll
+D:\Cosmos - Search Engine\obj\Debug\net8.0\refint\Cosmos - Search Engine.dll
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.pdb
+D:\Cosmos - Search Engine\obj\Debug\net8.0\Cosmos - Search Engine.genruntimeconfig.cache
+D:\Cosmos - Search Engine\obj\Debug\net8.0\ref\Cosmos - Search Engine.dll
